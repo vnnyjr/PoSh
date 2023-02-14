@@ -1,2 +1,2 @@
 # PoSh
-Powershell scripts
+General repo for Powershell scripts
