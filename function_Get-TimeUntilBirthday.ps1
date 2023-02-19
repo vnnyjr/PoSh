@@ -7,6 +7,5 @@ function Get-TimeUntilBirthday {
 
 }
 
-# making a change in code, commit and push to the branch, pull request into the main/master
-
-Get-TimeUntilBirthday 06/21
+write-host "Time until Jesus B-Day" -foregroundcolor yellow
+Get-TimeUntilBirthday 12/25
