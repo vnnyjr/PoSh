@@ -8,5 +8,7 @@ function Get-TimeUntilBirthday {
 }
 
 write-host "Time until Jesus B-Day" -foregroundcolor yellow
-#
+
+get-date
+
 Get-TimeUntilBirthday 12/25
